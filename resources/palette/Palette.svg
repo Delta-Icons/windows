@@ -1,0 +1,2335 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4593" height="2956" viewBox="0 0 4593 2956">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-158, .cls-159, .cls-160, .cls-2, .cls-5, .cls-6, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-107, .cls-109, .cls-111, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-100, .cls-102, .cls-104, .cls-106, .cls-108, .cls-11, .cls-110, .cls-112, .cls-114, .cls-116, .cls-118, .cls-120, .cls-122, .cls-124, .cls-126, .cls-128, .cls-13, .cls-130, .cls-132, .cls-134, .cls-136, .cls-138, .cls-140, .cls-142, .cls-144, .cls-146, .cls-148, .cls-15, .cls-150, .cls-152, .cls-154, .cls-156, .cls-17, .cls-19, .cls-21, .cls-23, .cls-26, .cls-28, .cls-31, .cls-33, .cls-34, .cls-36, .cls-38, .cls-4, .cls-40, .cls-42, .cls-44, .cls-46, .cls-48, .cls-50, .cls-52, .cls-54, .cls-56, .cls-58, .cls-60, .cls-62, .cls-64, .cls-66, .cls-68, .cls-70, .cls-72, .cls-74, .cls-76, .cls-78, .cls-80, .cls-82, .cls-84, .cls-86, .cls-88, .cls-9, .cls-90, .cls-92, .cls-94, .cls-96, .cls-98 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        font-size: 14px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #444;
+        font-family: Arial-ItalicMT, Arial;
+        font-style: italic;
+      }
+
+      .cls-6 {
+        font-size: 13px;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-8 {
+        font-size: 16px;
+        font-family: Arial-BoldMT, Arial;
+      }
+
+      .cls-158, .cls-159, .cls-160, .cls-8 {
+        font-weight: 700;
+      }
+
+      .cls-100, .cls-102, .cls-104, .cls-106, .cls-108, .cls-109, .cls-11, .cls-110, .cls-112, .cls-114, .cls-116, .cls-118, .cls-120, .cls-122, .cls-124, .cls-126, .cls-127, .cls-128, .cls-13, .cls-130, .cls-131, .cls-132, .cls-134, .cls-135, .cls-136, .cls-138, .cls-139, .cls-140, .cls-142, .cls-143, .cls-144, .cls-146, .cls-147, .cls-148, .cls-149, .cls-15, .cls-150, .cls-152, .cls-153, .cls-154, .cls-156, .cls-17, .cls-19, .cls-21, .cls-23, .cls-26, .cls-28, .cls-31, .cls-33, .cls-34, .cls-36, .cls-38, .cls-40, .cls-42, .cls-44, .cls-46, .cls-48, .cls-50, .cls-52, .cls-54, .cls-56, .cls-58, .cls-60, .cls-62, .cls-64, .cls-66, .cls-68, .cls-70, .cls-72, .cls-74, .cls-76, .cls-78, .cls-80, .cls-82, .cls-84, .cls-86, .cls-88, .cls-9, .cls-90, .cls-92, .cls-94, .cls-96, .cls-98 {
+        fill-opacity: 0.5;
+      }
+
+      .cls-9 {
+        fill: url(#Transparent_44_);
+      }
+
+      .cls-10 {
+        fill: url(#Unnamed_Pattern_79);
+      }
+
+      .cls-11 {
+        fill: url(#Transparent_77_);
+      }
+
+      .cls-12 {
+        fill: #ececec;
+      }
+
+      .cls-13 {
+        fill: url(#Transparent_78_);
+      }
+
+      .cls-115, .cls-117, .cls-119, .cls-14 {
+        fill: #d8d8d8;
+      }
+
+      .cls-15 {
+        fill: url(#Transparent_79_);
+      }
+
+      .cls-16 {
+        fill: #d2d2d2;
+      }
+
+      .cls-17 {
+        fill: url(#Transparent_80_);
+      }
+
+      .cls-18 {
+        fill: #ccc;
+      }
+
+      .cls-19 {
+        fill: url(#Transparent_90_);
+      }
+
+      .cls-121, .cls-20 {
+        fill: #b1b5bd;
+      }
+
+      .cls-21 {
+        fill: url(#Transparent_96_);
+      }
+
+      .cls-22 {
+        fill: #a0a5af;
+      }
+
+      .cls-23 {
+        fill: url(#Transparent_98_);
+      }
+
+      .cls-24 {
+        fill: #979797;
+      }
+
+      .cls-25 {
+        letter-spacing: -0.07em;
+      }
+
+      .cls-26 {
+        fill: url(#Transparent_100_);
+      }
+
+      .cls-27 {
+        fill: #83868c;
+      }
+
+      .cls-28 {
+        fill: url(#Transparent_157_);
+      }
+
+      .cls-29 {
+        fill: #56595b;
+      }
+
+      .cls-30 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-31 {
+        fill: url(#Transparent_158_);
+      }
+
+      .cls-158, .cls-159, .cls-160, .cls-32 {
+        fill: #4a4a4a;
+      }
+
+      .cls-33 {
+        fill: url(#Transparent_159_);
+      }
+
+      .cls-34 {
+        fill: url(#Transparent_160_);
+      }
+
+      .cls-35 {
+        fill: #fcecdc;
+      }
+
+      .cls-36 {
+        fill: url(#Transparent_161_);
+      }
+
+      .cls-37 {
+        fill: #f8c18c;
+      }
+
+      .cls-38 {
+        fill: url(#Transparent_162_);
+      }
+
+      .cls-39 {
+        fill: #ffd6d4;
+      }
+
+      .cls-40 {
+        fill: url(#Transparent_163_);
+      }
+
+      .cls-139, .cls-141, .cls-41 {
+        fill: #ff837d;
+      }
+
+      .cls-42 {
+        fill: url(#Transparent_164_);
+      }
+
+      .cls-43 {
+        fill: #ba6561;
+      }
+
+      .cls-44 {
+        fill: url(#Transparent_165_);
+      }
+
+      .cls-45 {
+        fill: #e0f4e0;
+      }
+
+      .cls-46 {
+        fill: url(#Transparent_166_);
+      }
+
+      .cls-135, .cls-137, .cls-47 {
+        fill: #98dc9a;
+      }
+
+      .cls-48 {
+        fill: url(#Transparent_167_);
+      }
+
+      .cls-49 {
+        fill: #71a372;
+      }
+
+      .cls-50 {
+        fill: url(#Transparent_168_);
+      }
+
+      .cls-51 {
+        fill: #d3b69a;
+      }
+
+      .cls-52 {
+        fill: url(#Transparent_169_);
+      }
+
+      .cls-53 {
+        fill: #8e6f60;
+      }
+
+      .cls-54 {
+        fill: url(#Transparent_170_);
+      }
+
+      .cls-127, .cls-129, .cls-55 {
+        fill: #9abeff;
+      }
+
+      .cls-56 {
+        fill: url(#Transparent_171_);
+      }
+
+      .cls-57 {
+        fill: #728dbe;
+      }
+
+      .cls-58 {
+        fill: url(#Transparent_172_);
+      }
+
+      .cls-59 {
+        fill: #fdf5d9;
+      }
+
+      .cls-60 {
+        fill: url(#Transparent_173_);
+      }
+
+      .cls-131, .cls-133, .cls-61 {
+        fill: #f9de81;
+      }
+
+      .cls-62 {
+        fill: url(#Transparent_174_);
+      }
+
+      .cls-63 {
+        fill: #c39a54;
+      }
+
+      .cls-64 {
+        fill: url(#Transparent_175_);
+      }
+
+      .cls-153, .cls-155, .cls-65 {
+        fill: #bd9aff;
+      }
+
+      .cls-66 {
+        fill: url(#Transparent_176_);
+      }
+
+      .cls-67 {
+        fill: #8c72bd;
+      }
+
+      .cls-68 {
+        fill: url(#Transparent_177_);
+      }
+
+      .cls-69 {
+        fill: #96dfd3;
+      }
+
+      .cls-70 {
+        fill: url(#Transparent_178_);
+      }
+
+      .cls-71 {
+        fill: #73ada4;
+      }
+
+      .cls-72 {
+        fill: url(#Transparent_179_);
+      }
+
+      .cls-157, .cls-73 {
+        fill: #ababff;
+      }
+
+      .cls-74 {
+        fill: url(#Transparent_180_);
+      }
+
+      .cls-75 {
+        fill: #54688c;
+      }
+
+      .cls-76 {
+        fill: url(#Transparent_181_);
+      }
+
+      .cls-77 {
+        fill: #ffb0ac;
+      }
+
+      .cls-78 {
+        fill: url(#Transparent_182_);
+      }
+
+      .cls-79 {
+        fill: #f58f8a;
+      }
+
+      .cls-80 {
+        fill: url(#Transparent_183_);
+      }
+
+      .cls-81 {
+        fill: #f4806d;
+      }
+
+      .cls-82 {
+        fill: url(#Transparent_184_);
+      }
+
+      .cls-83 {
+        fill: #e85e5c;
+      }
+
+      .cls-84 {
+        fill: url(#Transparent_185_);
+      }
+
+      .cls-85 {
+        fill: #dc505e;
+      }
+
+      .cls-86 {
+        fill: url(#Transparent_186_);
+      }
+
+      .cls-87 {
+        fill: #b02a3c;
+      }
+
+      .cls-88 {
+        fill: url(#Transparent_187_);
+      }
+
+      .cls-89 {
+        fill: #7a1b1c;
+      }
+
+      .cls-90 {
+        fill: url(#Transparent_188_);
+      }
+
+      .cls-91 {
+        fill: #511119;
+      }
+
+      .cls-92 {
+        fill: url(#Transparent_189_);
+      }
+
+      .cls-93 {
+        fill: #f1e9e0;
+      }
+
+      .cls-94 {
+        fill: url(#Transparent_190_);
+      }
+
+      .cls-95 {
+        fill: #d7d0b8;
+      }
+
+      .cls-96 {
+        fill: url(#Transparent_191_);
+      }
+
+      .cls-97 {
+        fill: #e2c9b0;
+      }
+
+      .cls-98 {
+        fill: url(#Transparent_192_);
+      }
+
+      .cls-99 {
+        fill: #d4b79a;
+      }
+
+      .cls-100 {
+        fill: url(#Transparent_193_);
+      }
+
+      .cls-101 {
+        fill: #bf9e73;
+      }
+
+      .cls-102 {
+        fill: url(#Transparent_194_);
+      }
+
+      .cls-103 {
+        fill: #d4c6b8;
+      }
+
+      .cls-104 {
+        fill: url(#Transparent_195_);
+      }
+
+      .cls-105 {
+        fill: #d6c8ba;
+      }
+
+      .cls-106 {
+        fill: url(#Transparent_196_);
+      }
+
+      .cls-107 {
+        fill-opacity: 0.7;
+      }
+
+      .cls-108 {
+        fill: url(#Transparent_197_);
+      }
+
+      .cls-110 {
+        fill: url(#Transparent_198_);
+      }
+
+      .cls-111, .cls-113, .cls-121, .cls-125 {
+        fill-opacity: 0.25;
+      }
+
+      .cls-112 {
+        fill: url(#Transparent_199_);
+      }
+
+      .cls-113 {
+        fill: #f4f2f2;
+      }
+
+      .cls-114 {
+        fill: url(#Transparent_200_);
+      }
+
+      .cls-115 {
+        fill-opacity: 0.3;
+      }
+
+      .cls-116 {
+        fill: url(#Transparent_201_);
+      }
+
+      .cls-117 {
+        fill-opacity: 0.1;
+      }
+
+      .cls-118 {
+        fill: url(#Transparent_202_);
+      }
+
+      .cls-119 {
+        fill-opacity: 0.2;
+      }
+
+      .cls-120 {
+        fill: url(#Transparent_203_);
+      }
+
+      .cls-122 {
+        fill: url(#Transparent_204_);
+      }
+
+      .cls-123 {
+        fill-opacity: 0.15;
+      }
+
+      .cls-124 {
+        fill: url(#Transparent_205_);
+      }
+
+      .cls-126 {
+        fill: url(#Transparent_206_);
+      }
+
+      .cls-128 {
+        fill: url(#Transparent_207_);
+      }
+
+      .cls-129, .cls-133, .cls-137, .cls-141, .cls-145, .cls-151, .cls-155, .cls-157 {
+        fill-opacity: 0.75;
+      }
+
+      .cls-130 {
+        fill: url(#Transparent_208_);
+      }
+
+      .cls-132 {
+        fill: url(#Transparent_209_);
+      }
+
+      .cls-134 {
+        fill: url(#Transparent_210_);
+      }
+
+      .cls-136 {
+        fill: url(#Transparent_211_);
+      }
+
+      .cls-138 {
+        fill: url(#Transparent_212_);
+      }
+
+      .cls-140 {
+        fill: url(#Transparent_213_);
+      }
+
+      .cls-142 {
+        fill: url(#Transparent_214_);
+      }
+
+      .cls-143, .cls-145 {
+        fill: #f9c28c;
+      }
+
+      .cls-144 {
+        fill: url(#Transparent_215_);
+      }
+
+      .cls-146 {
+        fill: url(#Transparent_216_);
+      }
+
+      .cls-147, .cls-151 {
+        fill: #99cdcd;
+      }
+
+      .cls-148 {
+        fill: url(#Transparent_217_);
+      }
+
+      .cls-149 {
+        fill: #719898;
+      }
+
+      .cls-150 {
+        fill: url(#Transparent_218_);
+      }
+
+      .cls-152 {
+        fill: url(#Transparent_219_);
+      }
+
+      .cls-154 {
+        fill: url(#Transparent_220_);
+      }
+
+      .cls-156 {
+        fill: url(#Transparent_221_);
+      }
+
+      .cls-158, .cls-159, .cls-160 {
+        font-size: 72px;
+        font-family: NowAlt-Bold, Now Alt;
+      }
+
+      .cls-158, .cls-161 {
+        letter-spacing: 0.03em;
+      }
+
+      .cls-159 {
+        letter-spacing: 0.03em;
+      }
+
+      .cls-160 {
+        letter-spacing: -0.03em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="7.68" height="7.68"/>
+    </clipPath>
+    <pattern id="Transparent_44_" data-name="Transparent 44 " width="19.2" height="19.2" patternTransform="translate(151.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <g class="cls-3">
+          <g class="cls-2">
+            <use id="image-5" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <image id="image" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAEggAABIIAFxINBWAAAA8UlEQVRoQ+3YwWnDQBCF4d9GhagJ7TnpxJ1Yrsw+TxXTiXLxwtqEjFcgmCzvOz8GftBh0WlZlhmY+ZybmUejqpQyc+D9agIuwDXYtW7AGo0aF469D8A5GvwXCslGIdkoJBuFZDNMyAQ48Ph79qqU8hVt3jyiQavzvpuZn7Zti4YvSikrnW8nM1ujUbX3/jCflkKyUUg2CslGIdkMEzLt+O8Ex76doO++w87/Wmb2HY2q59vpHu0aXferYT4thWSjkGwUko1CshkmRP+1ol1D/7V6KCQbhWSjkGwUks0wIVM0+IXT93byaPDG2XG/+62V1Q/OfE3JpJwfgQAAAABJRU5ErkJggg=="/>
+    <pattern id="Unnamed_Pattern_79" data-name="Unnamed Pattern 79" width="19.2" height="19.2" patternTransform="matrix(1, 0, 0, -1, -13.4, -2190)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <g class="cls-3">
+          <g class="cls-2">
+            <use id="image-5-2" data-name="image-5" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+          </g>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="Transparent_77_" data-name="Transparent 77 " width="19.2" height="19.2" patternTransform="translate(381.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-11" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_78_" data-name="Transparent 78 " width="19.2" height="19.2" patternTransform="translate(611.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-17" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_79_" data-name="Transparent 79 " width="19.2" height="19.2" patternTransform="translate(841.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-23" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_80_" data-name="Transparent 80 " width="19.2" height="19.2" patternTransform="translate(151.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-29" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_90_" data-name="Transparent 90 " width="19.2" height="19.2" patternTransform="translate(381.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-35" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_96_" data-name="Transparent 96 " width="19.2" height="19.2" patternTransform="translate(611.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-41" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_98_" data-name="Transparent 98 " width="19.2" height="19.2" patternTransform="translate(841.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-47" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_100_" data-name="Transparent 100 " width="19.2" height="19.2" patternTransform="translate(151.2 17212.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-53" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_157_" data-name="Transparent 157 " width="19.2" height="19.2" patternTransform="translate(381.2 17212.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-59" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_158_" data-name="Transparent 158 " width="19.2" height="19.2" patternTransform="translate(611.2 17212.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-65" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_159_" data-name="Transparent 159 " width="19.2" height="19.2" patternTransform="translate(841.2 17212.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-71" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_160_" data-name="Transparent 160 " width="19.2" height="19.2" patternTransform="translate(1254.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-77" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_161_" data-name="Transparent 161 " width="19.2" height="19.2" patternTransform="translate(1484.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-83" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_162_" data-name="Transparent 162 " width="19.2" height="19.2" patternTransform="translate(1714.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-89" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_163_" data-name="Transparent 163 " width="19.2" height="19.2" patternTransform="translate(1944.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-95" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_164_" data-name="Transparent 164 " width="19.2" height="19.2" patternTransform="translate(1254.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-101" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_165_" data-name="Transparent 165 " width="19.2" height="19.2" patternTransform="translate(1484.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-107" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_166_" data-name="Transparent 166 " width="19.2" height="19.2" patternTransform="translate(1714.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-113" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_167_" data-name="Transparent 167 " width="19.2" height="19.2" patternTransform="translate(1944.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-119" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_168_" data-name="Transparent 168 " width="19.2" height="19.2" patternTransform="translate(1254.2 17212.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-125" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_169_" data-name="Transparent 169 " width="19.2" height="19.2" patternTransform="translate(1484.2 17212.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-131" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_170_" data-name="Transparent 170 " width="19.2" height="19.2" patternTransform="translate(1714.2 17212.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-137" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_171_" data-name="Transparent 171 " width="19.2" height="19.2" patternTransform="translate(1944.2 17212.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-143" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_172_" data-name="Transparent 172 " width="19.2" height="19.2" patternTransform="translate(1254.2 17525.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-149" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_173_" data-name="Transparent 173 " width="19.2" height="19.2" patternTransform="translate(1484.2 17525.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-155" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_174_" data-name="Transparent 174 " width="19.2" height="19.2" patternTransform="translate(1714.2 17525.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-161" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_175_" data-name="Transparent 175 " width="19.2" height="19.2" patternTransform="translate(1944.2 17525.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-167" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_176_" data-name="Transparent 176 " width="19.2" height="19.2" patternTransform="translate(1254.2 17838.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-173" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_177_" data-name="Transparent 177 " width="19.2" height="19.2" patternTransform="translate(1484.2 17838.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-179" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_178_" data-name="Transparent 178 " width="19.2" height="19.2" patternTransform="translate(1714.2 17838.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-185" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_179_" data-name="Transparent 179 " width="19.2" height="19.2" patternTransform="translate(1944.2 17838.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-191" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_180_" data-name="Transparent 180 " width="19.2" height="19.2" patternTransform="translate(1254.2 18151.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-197" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_181_" data-name="Transparent 181 " width="19.2" height="19.2" patternTransform="translate(2418.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-203" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_182_" data-name="Transparent 182 " width="19.2" height="19.2" patternTransform="translate(2648.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-209" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_183_" data-name="Transparent 183 " width="19.2" height="19.2" patternTransform="translate(2878.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-215" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_184_" data-name="Transparent 184 " width="19.2" height="19.2" patternTransform="translate(3108.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-221" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_185_" data-name="Transparent 185 " width="19.2" height="19.2" patternTransform="translate(2418.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-227" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_186_" data-name="Transparent 186 " width="19.2" height="19.2" patternTransform="translate(2648.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-233" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_187_" data-name="Transparent 187 " width="19.2" height="19.2" patternTransform="translate(2878.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-239" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_188_" data-name="Transparent 188 " width="19.2" height="19.2" patternTransform="translate(3108.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-245" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_189_" data-name="Transparent 189 " width="19.2" height="19.2" patternTransform="translate(3582.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-251" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_190_" data-name="Transparent 190 " width="19.2" height="19.2" patternTransform="translate(3812.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-257" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_191_" data-name="Transparent 191 " width="19.2" height="19.2" patternTransform="translate(4042.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-263" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_192_" data-name="Transparent 192 " width="19.2" height="19.2" patternTransform="translate(4272.2 16586.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-269" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_193_" data-name="Transparent 193 " width="19.2" height="19.2" patternTransform="translate(3582.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-275" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_194_" data-name="Transparent 194 " width="19.2" height="19.2" patternTransform="translate(3812.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-281" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_195_" data-name="Transparent 195 " width="19.2" height="19.2" patternTransform="translate(4272.2 16899.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-293" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_196_" data-name="Transparent 196 " width="19.2" height="19.2" patternTransform="translate(2418.2 17495.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-299" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_197_" data-name="Transparent 197 " width="19.2" height="19.2" patternTransform="translate(2648.2 17495.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-305" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_198_" data-name="Transparent 198 " width="19.2" height="19.2" patternTransform="translate(2878.2 17495.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-311" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_199_" data-name="Transparent 199 " width="19.2" height="19.2" patternTransform="translate(3108.2 17495.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-317" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_200_" data-name="Transparent 200 " width="19.2" height="19.2" patternTransform="translate(3568.2 17495.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-329" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_201_" data-name="Transparent 201 " width="19.2" height="19.2" patternTransform="translate(2648.2 17808.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-341" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_202_" data-name="Transparent 202 " width="19.2" height="19.2" patternTransform="translate(3108.2 17808.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-353" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_203_" data-name="Transparent 203 " width="19.2" height="19.2" patternTransform="translate(3338.2 17808.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-359" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_204_" data-name="Transparent 204 " width="19.2" height="19.2" patternTransform="translate(3568.2 17808.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-365" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_205_" data-name="Transparent 205 " width="19.2" height="19.2" patternTransform="translate(2418.2 18121.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-371" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_206_" data-name="Transparent 206 " width="19.2" height="19.2" patternTransform="translate(2648.2 18121.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-377" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_207_" data-name="Transparent 207 " width="19.2" height="19.2" patternTransform="translate(2878.2 18121.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-383" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_208_" data-name="Transparent 208 " width="19.2" height="19.2" patternTransform="translate(3108.2 18121.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-389" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_209_" data-name="Transparent 209 " width="19.2" height="19.2" patternTransform="translate(3338.2 18121.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-395" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_210_" data-name="Transparent 210 " width="19.2" height="19.2" patternTransform="translate(3568.2 18121.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-401" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_211_" data-name="Transparent 211 " width="19.2" height="19.2" patternTransform="translate(2418.2 18434.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-407" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_212_" data-name="Transparent 212 " width="19.2" height="19.2" patternTransform="translate(2648.2 18434.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-413" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_213_" data-name="Transparent 213 " width="19.2" height="19.2" patternTransform="translate(2878.2 18434.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-419" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_214_" data-name="Transparent 214 " width="19.2" height="19.2" patternTransform="translate(3108.2 18434.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-425" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_215_" data-name="Transparent 215 " width="19.2" height="19.2" patternTransform="translate(3338.2 18434.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-431" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_216_" data-name="Transparent 216 " width="19.2" height="19.2" patternTransform="translate(3568.2 18434.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-437" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_217_" data-name="Transparent 217 " width="19.2" height="19.2" patternTransform="translate(2418.2 18747.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-443" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_218_" data-name="Transparent 218 " width="19.2" height="19.2" patternTransform="translate(2648.2 18747.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-449" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_219_" data-name="Transparent 219 " width="19.2" height="19.2" patternTransform="translate(2878.2 18747.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-455" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_220_" data-name="Transparent 220 " width="19.2" height="19.2" patternTransform="translate(3108.2 18747.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-461" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+    <pattern id="Transparent_221_" data-name="Transparent 221 " width="19.2" height="19.2" patternTransform="translate(3338.2 18747.53)" patternUnits="userSpaceOnUse" viewBox="0 0 19.2 19.2">
+      <rect class="cls-1" width="19.2" height="19.2"/>
+      <g>
+        <rect class="cls-1" width="19.2" height="19.2"/>
+        <use id="image-467" class="cls-2" transform="translate(7.68 7.68) scale(0.15)" xlink:href="#image"/>
+      </g>
+    </pattern>
+  </defs>
+  <g>
+    <g id="Background">
+      <path id="path-2" class="cls-4" d="M190,259H382a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H190a4,4,0,0,1-4-4V263A4,4,0,0,1,190,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(199 528)">rgba(255,255,255,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(199 506)">#FFFFF<tspan class="cls-7" x="46.93" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(199 486)">White</text>
+    </g>
+    <polygon id="Transparent" class="cls-9" points="386 259 386 459 186 459 186 259 386 259"/>
+    <rect id="Color" class="cls-10" x="186" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-2" data-name="Background">
+      <path id="path-8" class="cls-4" d="M420,259H612a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H420a4,4,0,0,1-4-4V263A4,4,0,0,1,420,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(429 528)">rgba(236,236,236,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(429 506)">#ECECEC</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(429 486)">Isabelline</text>
+    </g>
+    <polygon id="Transparent-2" data-name="Transparent" class="cls-11" points="616 259 616 459 416 459 416 259 616 259"/>
+    <rect id="Color-2" data-name="Color" class="cls-12" x="416" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-3" data-name="Background">
+      <path id="path-14" class="cls-4" d="M650,259H842a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H650a4,4,0,0,1-4-4V263A4,4,0,0,1,650,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(659 528)">rgba(216,216,216,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(659 506)">#D8D8D8</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(659 486)"><tspan class="cls-7">T</tspan><tspan x="9.48" y="0">imberwolf</tspan></text>
+    </g>
+    <polygon id="Transparent-3" data-name="Transparent" class="cls-13" points="846 259 846 459 646 459 646 259 846 259"/>
+    <rect id="Color-3" data-name="Color" class="cls-14" x="646" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-4" data-name="Background">
+      <path id="path-20" class="cls-4" d="M880,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H880a4,4,0,0,1-4-4V263A4,4,0,0,1,880,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(889 528)">rgba(210,210,210,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(889 506)">#D2D2D2</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(889 486)">Light gray</text>
+    </g>
+    <polygon id="Transparent-4" data-name="Transparent" class="cls-15" points="1076 259 1076 459 876 459 876 259 1076 259"/>
+    <rect id="Color-4" data-name="Color" class="cls-16" x="876" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-5" data-name="Background">
+      <path id="path-26" class="cls-4" d="M190,572H382a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H190a4,4,0,0,1-4-4V576A4,4,0,0,1,190,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(199 841)">rgba(204,204,204,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(199 819)">#CCCCCC</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(199 799)">Pastel gray</text>
+    </g>
+    <polygon id="Transparent-5" data-name="Transparent" class="cls-17" points="386 572 386 772 186 772 186 572 386 572"/>
+    <rect id="Color-5" data-name="Color" class="cls-18" x="186" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-6" data-name="Background">
+      <path id="path-32" class="cls-4" d="M420,572H612a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H420a4,4,0,0,1-4-4V576A4,4,0,0,1,420,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(429 841)">rgba(177,181,189,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(429 819)">#B1B5BD</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(429 799)">Ash grey</text>
+    </g>
+    <polygon id="Transparent-6" data-name="Transparent" class="cls-19" points="616 572 616 772 416 772 416 572 616 572"/>
+    <rect id="Color-6" data-name="Color" class="cls-20" x="416" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-7" data-name="Background">
+      <path id="path-38" class="cls-4" d="M650,572H842a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H650a4,4,0,0,1-4-4V576A4,4,0,0,1,650,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(659 841)">rgba(160,165,175,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(659 819)">#A0A5A<tspan class="cls-7" x="47.7" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(659 799)">Dark gray</text>
+    </g>
+    <polygon id="Transparent-7" data-name="Transparent" class="cls-21" points="846 572 846 772 646 772 646 572 846 572"/>
+    <rect id="Color-7" data-name="Color" class="cls-22" x="646" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-8" data-name="Background">
+      <path id="path-44" class="cls-4" d="M880,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H880a4,4,0,0,1-4-4V576A4,4,0,0,1,880,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(889 841)">rgba(151,151,151,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(889 819)">#979797</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(889 799)">Manatee</text>
+    </g>
+    <polygon id="Transparent-8" data-name="Transparent" class="cls-23" points="1076 572 1076 772 876 772 876 572 1076 572"/>
+    <rect id="Color-8" data-name="Color" class="cls-24" x="876" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-9" data-name="Background">
+      <path id="path-50" class="cls-4" d="M190,885H382a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H190a4,4,0,0,1-4-4V889A4,4,0,0,1,190,885Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(199 1154)">rgba(131,134,140,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(199 1132)">#83868C</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(199 1112)"><tspan class="cls-25">T</tspan><tspan x="8.59" y="0">aupe gray</tspan></text>
+    </g>
+    <polygon id="Transparent-9" data-name="Transparent" class="cls-26" points="386 885 386 1085 186 1085 186 885 386 885"/>
+    <rect id="Color-9" data-name="Color" class="cls-27" x="186" y="885" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-10" data-name="Background">
+      <path id="path-56" class="cls-4" d="M420,885H612a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H420a4,4,0,0,1-4-4V889A4,4,0,0,1,420,885Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(429 1154)">rgba(86,89,91,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(429 1132)">#56595B</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(429 1112)">Davy&apos;s grey</text>
+    </g>
+    <polygon id="Transparent-10" data-name="Transparent" class="cls-28" points="616 885 616 1085 416 1085 416 885 616 885"/>
+    <rect id="Color-10" data-name="Color" class="cls-29" x="416" y="885" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-11" data-name="Background">
+      <path id="path-62" class="cls-4" d="M650,885H842a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H650a4,4,0,0,1-4-4V889A4,4,0,0,1,650,885Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(659 1154)">rgba(74,74,74,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(659 1132)">#4A4A4<tspan class="cls-30" x="46.26" y="0">A</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(659 1112)">Quartz</text>
+    </g>
+    <polygon id="Transparent-11" data-name="Transparent" class="cls-31" points="846 885 846 1085 646 1085 646 885 846 885"/>
+    <rect id="Color-11" data-name="Color" class="cls-32" x="646" y="885" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-12" data-name="Background">
+      <path id="path-68" class="cls-4" d="M880,885h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H880a4,4,0,0,1-4-4V889A4,4,0,0,1,880,885Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(889 1154)">rgba(0,0,0,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(889 1132)">#000000</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(889 1112)">Black</text>
+    </g>
+    <polygon id="Transparent-12" data-name="Transparent" class="cls-33" points="1076 885 1076 1085 876 1085 876 885 1076 885"/>
+    <rect id="Color-12" data-name="Color" x="876" y="885" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-13" data-name="Background">
+      <path id="path-74" class="cls-4" d="M1523,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H1523a4,4,0,0,1-4-4V576A4,4,0,0,1,1523,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1532 841)">rgba(252,236,220,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1532 819)">#FCECDC</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1532 799)">Antique white</text>
+    </g>
+    <polygon id="Transparent-13" data-name="Transparent" class="cls-34" points="1719 572 1719 772 1519 772 1519 572 1719 572"/>
+    <rect id="Color-13" data-name="Color" class="cls-35" x="1519" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-14" data-name="Background">
+      <path id="path-80" class="cls-4" d="M1753,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H1753a4,4,0,0,1-4-4V576A4,4,0,0,1,1753,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1762 841)">rgba(248,193,140,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1762 819)">#F8C18C</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1762 799)">Pale gold</text>
+    </g>
+    <polygon id="Transparent-14" data-name="Transparent" class="cls-36" points="1949 572 1949 772 1749 772 1749 572 1949 572"/>
+    <rect id="Color-14" data-name="Color" class="cls-37" x="1749" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-15" data-name="Background">
+      <path id="path-86" class="cls-4" d="M1293,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H1293a4,4,0,0,1-4-4V263A4,4,0,0,1,1293,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1302 528)">rgba(255,214,212,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1302 506)">#FFD6D4</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1302 486)">Pastel pink</text>
+    </g>
+    <polygon id="Transparent-15" data-name="Transparent" class="cls-38" points="1489 259 1489 459 1289 459 1289 259 1489 259"/>
+    <rect id="Color-15" data-name="Color" class="cls-39" x="1289" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-16" data-name="Background">
+      <path id="path-92" class="cls-4" d="M1523,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H1523a4,4,0,0,1-4-4V263A4,4,0,0,1,1523,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1532 528)">rgba(255,131,125,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1532 506)">#FF837D</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1532 486)">Coral pink</text>
+    </g>
+    <polygon id="Transparent-16" data-name="Transparent" class="cls-40" points="1719 259 1719 459 1519 459 1519 259 1719 259"/>
+    <rect id="Color-16" data-name="Color" class="cls-41" x="1519" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-17" data-name="Background">
+      <path id="path-98" class="cls-4" d="M1753,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H1753a4,4,0,0,1-4-4V263A4,4,0,0,1,1753,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1762 528)">rgba(186,101,97,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1762 506)">#BA6561</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1762 486)">Fuzzy <tspan class="cls-7" x="48.89" y="0">W</tspan><tspan x="63.7" y="0">uzzy</tspan></text>
+    </g>
+    <polygon id="Transparent-17" data-name="Transparent" class="cls-42" points="1949 259 1949 459 1749 459 1749 259 1949 259"/>
+    <rect id="Color-17" data-name="Color" class="cls-43" x="1749" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-18" data-name="Background">
+      <path id="path-104" class="cls-4" d="M1753,885h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1753a4,4,0,0,1-4-4V889A4,4,0,0,1,1753,885Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1762 1154)">rgba(224,244,224,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1762 1132)">#E0F4E0</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1762 1112)">Platinum</text>
+    </g>
+    <polygon id="Transparent-18" data-name="Transparent" class="cls-44" points="1949 885 1949 1085 1749 1085 1749 885 1949 885"/>
+    <rect id="Color-18" data-name="Color" class="cls-45" x="1749" y="885" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-19" data-name="Background">
+      <path id="path-110" class="cls-4" d="M1990,885h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1990a4,4,0,0,1-4-4V889A4,4,0,0,1,1990,885Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1999 1154)">rgba(152,220,154,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1999 1132)">#98DC9<tspan class="cls-30" x="47.7" y="0">A</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1999 1112)">Granny Smith<tspan class="cls-30" x="104.91" y="0"> </tspan><tspan x="108.76" y="0">Apple</tspan></text>
+    </g>
+    <polygon id="Transparent-19" data-name="Transparent" class="cls-46" points="2186 885 2186 1085 1986 1085 1986 885 2186 885"/>
+    <rect id="Color-19" data-name="Color" class="cls-47" x="1986" y="885" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-20" data-name="Background">
+      <path id="path-116" class="cls-4" d="M1293,1198h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1293a4,4,0,0,1-4-4V1202A4,4,0,0,1,1293,1198Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1302 1467)">rgba(<tspan class="cls-25" x="32.68" y="0">1</tspan><tspan x="39.43" y="0">13,163,</tspan><tspan class="cls-25" x="86.14" y="0">1</tspan><tspan x="92.89" y="0">14,1);</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1302 1445)">#71A372</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1302 1425)">Asparagus</text>
+    </g>
+    <polygon id="Transparent-20" data-name="Transparent" class="cls-48" points="1489 1198 1489 1398 1289 1398 1289 1198 1489 1198"/>
+    <rect id="Color-20" data-name="Color" class="cls-49" x="1289" y="1198" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-21" data-name="Background">
+      <path id="path-122" class="cls-4" d="M1990,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H1990a4,4,0,0,1-4-4V263A4,4,0,0,1,1990,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1999 528)">rgba(2<tspan class="cls-25" x="40.47" y="0">1</tspan><tspan x="47.22" y="0">1,182,154,1);</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1999 506)">#D3B69<tspan class="cls-30" x="46.98" y="0">A</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1999 486)"><tspan class="cls-25">T</tspan><tspan x="8.59" y="0">an</tspan></text>
+    </g>
+    <polygon id="Transparent-21" data-name="Transparent" class="cls-50" points="2186 259 2186 459 1986 459 1986 259 2186 259"/>
+    <rect id="Color-21" data-name="Color" class="cls-51" x="1986" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-22" data-name="Background">
+      <path id="path-128" class="cls-4" d="M1293,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H1293a4,4,0,0,1-4-4V576A4,4,0,0,1,1293,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1302 841)">rgba(142,<tspan class="cls-25" x="59.93" y="0">11</tspan><tspan x="73.42" y="0">1,96,1);</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1302 819)">#8E6F60</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1302 799)">Shadow</text>
+    </g>
+    <polygon id="Transparent-22" data-name="Transparent" class="cls-52" points="1489 572 1489 772 1289 772 1289 572 1489 572"/>
+    <rect id="Color-22" data-name="Color" class="cls-53" x="1289" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-23" data-name="Background">
+      <path id="path-134" class="cls-4" d="M1990,1198h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1990a4,4,0,0,1-4-4V1202A4,4,0,0,1,1990,1198Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1999 1467)">rgba(154,190,255,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1999 1445)">#9ABEF<tspan class="cls-7" x="48.41" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1999 1425)">Baby blue eyes</text>
+    </g>
+    <polygon id="Transparent-23" data-name="Transparent" class="cls-54" points="2186 1198 2186 1398 1986 1398 1986 1198 2186 1198"/>
+    <rect id="Color-23" data-name="Color" class="cls-55" x="1986" y="1198" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-24" data-name="Background">
+      <path id="path-140" class="cls-4" d="M1293,1511h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1293a4,4,0,0,1-4-4V1515A4,4,0,0,1,1293,1511Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1302 1780)">rgba(<tspan class="cls-25" x="32.68" y="0">1</tspan><tspan x="39.43" y="0">14,141,190,1);</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1302 1758)">#728DBE</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1302 1738)">Dark pastel blue</text>
+    </g>
+    <polygon id="Transparent-24" data-name="Transparent" class="cls-56" points="1489 1511 1489 1711 1289 1711 1289 1511 1489 1511"/>
+    <rect id="Color-24" data-name="Color" class="cls-57" x="1289" y="1511" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-25" data-name="Background">
+      <path id="path-146" class="cls-4" d="M1990,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H1990a4,4,0,0,1-4-4V576A4,4,0,0,1,1990,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1999 841)">rgba(253,245,217,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1999 819)">#FDF5D9</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1999 799)">Cornsilk</text>
+    </g>
+    <polygon id="Transparent-25" data-name="Transparent" class="cls-58" points="2186 572 2186 772 1986 772 1986 572 2186 572"/>
+    <rect id="Color-25" data-name="Color" class="cls-59" x="1986" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-26" data-name="Background">
+      <path id="path-152" class="cls-4" d="M1293,885h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1293a4,4,0,0,1-4-4V889A4,4,0,0,1,1293,885Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1302 1154)">rgba(249,222,129,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1302 1132)">#F9DE81</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1302 1112)">Jasmine</text>
+    </g>
+    <polygon id="Transparent-26" data-name="Transparent" class="cls-60" points="1489 885 1489 1085 1289 1085 1289 885 1489 885"/>
+    <rect id="Color-26" data-name="Color" class="cls-61" x="1289" y="885" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-27" data-name="Background">
+      <path id="path-158" class="cls-4" d="M1523,885h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1523a4,4,0,0,1-4-4V889A4,4,0,0,1,1523,885Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1532 1154)">rgba(195,154,84,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1532 1132)">#C39A54</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1532 1112)">Camel</text>
+    </g>
+    <polygon id="Transparent-27" data-name="Transparent" class="cls-62" points="1719 885 1719 1085 1519 1085 1519 885 1719 885"/>
+    <rect id="Color-27" data-name="Color" class="cls-63" x="1519" y="885" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-28" data-name="Background">
+      <path id="path-164" class="cls-4" d="M1990,1511h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1990a4,4,0,0,1-4-4V1515A4,4,0,0,1,1990,1511Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1999 1780)">rgba(189,154,255,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1999 1758)">#BD9AF<tspan class="cls-7" x="49.13" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1999 1738)">Bright lavender</text>
+    </g>
+    <polygon id="Transparent-28" data-name="Transparent" class="cls-64" points="2186 1511 2186 1711 1986 1711 1986 1511 2186 1511"/>
+    <rect id="Color-28" data-name="Color" class="cls-65" x="1986" y="1511" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-29" data-name="Background">
+      <path id="path-170" class="cls-4" d="M1293,1824h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1293a4,4,0,0,1-4-4V1828A4,4,0,0,1,1293,1824Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1302 2093)">rgba(140,<tspan class="cls-25" x="59.93" y="0">1</tspan><tspan x="66.68" y="0">14,189,1);</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1302 2071)">#8C72BD</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1302 2051)">Ube</text>
+    </g>
+    <polygon id="Transparent-29" data-name="Transparent" class="cls-66" points="1489 1824 1489 2024 1289 2024 1289 1824 1489 1824"/>
+    <rect id="Color-29" data-name="Color" class="cls-67" x="1289" y="1824" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-30" data-name="Background">
+      <path id="path-176" class="cls-4" d="M1523,1198h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1523a4,4,0,0,1-4-4V1202A4,4,0,0,1,1523,1198Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1532 1467)">rgba(150,223,2<tspan class="cls-25" x="94.96" y="0">1</tspan><tspan x="101.71" y="0">1,1);</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1532 1445)">#96DFD3</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1532 1425)">Pale robin egg blue</text>
+    </g>
+    <polygon id="Transparent-30" data-name="Transparent" class="cls-68" points="1719 1198 1719 1398 1519 1398 1519 1198 1719 1198"/>
+    <rect id="Color-30" data-name="Color" class="cls-69" x="1519" y="1198" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-31" data-name="Background">
+      <path id="path-182" class="cls-4" d="M1753,1198h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1753a4,4,0,0,1-4-4V1202A4,4,0,0,1,1753,1198Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1762 1467)">rgba(<tspan class="cls-25" x="32.68" y="0">1</tspan><tspan x="39.43" y="0">15,173,164,1);</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1762 1445)">#73ADA4</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1762 1425)">Cadet blue</text>
+    </g>
+    <polygon id="Transparent-31" data-name="Transparent" class="cls-70" points="1949 1198 1949 1398 1749 1398 1749 1198 1949 1198"/>
+    <rect id="Color-31" data-name="Color" class="cls-71" x="1749" y="1198" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-32" data-name="Background">
+      <path id="path-188" class="cls-4" d="M1753,1511h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1753a4,4,0,0,1-4-4V1515A4,4,0,0,1,1753,1511Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1762 1780)">rgba(171,171,255,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1762 1758)">#ABABF<tspan class="cls-7" x="49.85" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1762 1738)">Baby blue eyes</text>
+    </g>
+    <polygon id="Transparent-32" data-name="Transparent" class="cls-72" points="1949 1511 1949 1711 1749 1711 1749 1511 1949 1511"/>
+    <rect id="Color-32" data-name="Color" class="cls-73" x="1749" y="1511" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-33" data-name="Background">
+      <path id="path-194" class="cls-4" d="M1523,1511h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H1523a4,4,0,0,1-4-4V1515A4,4,0,0,1,1523,1511Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(1532 1780)">rgba(84,104,140,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(1532 1758)">#54688C</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(1532 1738)">UCL<tspan class="cls-30" x="32.88" y="0">A</tspan><tspan x="43.84" y="0" xml:space="preserve"> Blue</tspan></text>
+    </g>
+    <polygon id="Transparent-33" data-name="Transparent" class="cls-74" points="1719 1511 1719 1711 1519 1711 1519 1511 1719 1511"/>
+    <rect id="Color-33" data-name="Color" class="cls-75" x="1519" y="1511" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-34" data-name="Background">
+      <path id="path-200" class="cls-4" d="M2457,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H2457a4,4,0,0,1-4-4V263A4,4,0,0,1,2457,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2466 528)">rgba(255,176,172,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2466 506)">#FFB0AC</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2466 486)">Melon</text>
+    </g>
+    <polygon id="Transparent-34" data-name="Transparent" class="cls-76" points="2653 259 2653 459 2453 459 2453 259 2653 259"/>
+    <rect id="Color-34" data-name="Color" class="cls-77" x="2453" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-35" data-name="Background">
+      <path id="path-206" class="cls-4" d="M2687,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H2687a4,4,0,0,1-4-4V263A4,4,0,0,1,2687,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2696 528)">rgba(245,143,138,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2696 506)">#F58F8<tspan class="cls-30" x="44.8" y="0">A</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2696 486)">Light coral</text>
+    </g>
+    <polygon id="Transparent-35" data-name="Transparent" class="cls-78" points="2883 259 2883 459 2683 459 2683 259 2883 259"/>
+    <rect id="Color-35" data-name="Color" class="cls-79" x="2683" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-36" data-name="Background">
+      <path id="path-212" class="cls-4" d="M2917,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H2917a4,4,0,0,1-4-4V263A4,4,0,0,1,2917,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2926 528)">rgba(244,128,109,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2926 506)">#F4806D</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2926 486)">Coral pink</text>
+    </g>
+    <polygon id="Transparent-36" data-name="Transparent" class="cls-80" points="3113 259 3113 459 2913 459 2913 259 3113 259"/>
+    <rect id="Color-36" data-name="Color" class="cls-81" x="2913" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-37" data-name="Background">
+      <path id="path-218" class="cls-4" d="M3147,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H3147a4,4,0,0,1-4-4V263A4,4,0,0,1,3147,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3156 528)">rgba(232,94,92,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3156 506)">#E85E5C</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3156 486)"><tspan class="cls-25">T</tspan><tspan x="8.59" y="0">erra cotta</tspan></text>
+    </g>
+    <polygon id="Transparent-37" data-name="Transparent" class="cls-82" points="3343 259 3343 459 3143 459 3143 259 3343 259"/>
+    <rect id="Color-37" data-name="Color" class="cls-83" x="3143" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-38" data-name="Background">
+      <path id="path-224" class="cls-4" d="M2457,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H2457a4,4,0,0,1-4-4V576A4,4,0,0,1,2457,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2466 841)">rgba(220,80,94,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2466 819)">#DC505E</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2466 799)">Dark terra cotta</text>
+    </g>
+    <polygon id="Transparent-38" data-name="Transparent" class="cls-84" points="2653 572 2653 772 2453 772 2453 572 2653 572"/>
+    <rect id="Color-38" data-name="Color" class="cls-85" x="2453" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-39" data-name="Background">
+      <path id="path-230" class="cls-4" d="M2687,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H2687a4,4,0,0,1-4-4V576A4,4,0,0,1,2687,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2696 841)">rgba(176,42,60,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2696 819)">#B02A3C</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2696 799)">Deep carmine</text>
+    </g>
+    <polygon id="Transparent-39" data-name="Transparent" class="cls-86" points="2883 572 2883 772 2683 772 2683 572 2883 572"/>
+    <rect id="Color-39" data-name="Color" class="cls-87" x="2683" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-40" data-name="Background">
+      <path id="path-236" class="cls-4" d="M2917,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H2917a4,4,0,0,1-4-4V576A4,4,0,0,1,2917,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2926 841)">rgba(122,27,28,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2926 819)">#7A1B1C</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2926 799)">Falu red</text>
+    </g>
+    <polygon id="Transparent-40" data-name="Transparent" class="cls-88" points="3113 572 3113 772 2913 772 2913 572 3113 572"/>
+    <rect id="Color-40" data-name="Color" class="cls-89" x="2913" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-41" data-name="Background">
+      <path id="path-242" class="cls-4" d="M3147,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H3147a4,4,0,0,1-4-4V576A4,4,0,0,1,3147,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3156 841)">rgba(81,17,25,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3156 819)">#5<tspan class="cls-25" x="14.46" y="0">111</tspan><tspan x="33.26" y="0">19</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3156 799)">Dark scarlet</text>
+    </g>
+    <polygon id="Transparent-41" data-name="Transparent" class="cls-90" points="3343 572 3343 772 3143 772 3143 572 3343 572"/>
+    <rect id="Color-41" data-name="Color" class="cls-91" x="3143" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-42" data-name="Background">
+      <path id="path-248" class="cls-4" d="M3621,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H3621a4,4,0,0,1-4-4V263A4,4,0,0,1,3621,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3630 528)">rgba(241,233,224,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3630 506)">#F1E9E0</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3630 486)">Eggshell</text>
+    </g>
+    <polygon id="Transparent-42" data-name="Transparent" class="cls-92" points="3817 259 3817 459 3617 459 3617 259 3817 259"/>
+    <rect id="Color-42" data-name="Color" class="cls-93" x="3617" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-43" data-name="Background">
+      <path id="path-254" class="cls-4" d="M4311,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H4311a4,4,0,0,1-4-4V263A4,4,0,0,1,4311,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(4320 528)">rgba(215,208,184,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(4320 506)">#D7D0B8</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(4320 486)">Pastel gray</text>
+    </g>
+    <polygon id="Transparent-43" data-name="Transparent" class="cls-94" points="4507 259 4507 459 4307 459 4307 259 4507 259"/>
+    <rect id="Color-43" data-name="Color" class="cls-95" x="4307" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-44" data-name="Background">
+      <path id="path-260" class="cls-4" d="M3620,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H3620a4,4,0,0,1-4-4V576A4,4,0,0,1,3620,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3629 841)">rgba(226,201,176,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3629 819)">#E2C9B0</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3629 799)">Desert sand</text>
+    </g>
+    <polygon id="Transparent-44" data-name="Transparent" class="cls-96" points="3816 572 3816 772 3616 772 3616 572 3816 572"/>
+    <rect id="Color-44" data-name="Color" class="cls-97" x="3616" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-45" data-name="Background">
+      <path id="path-266" class="cls-4" d="M3850,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H3850a4,4,0,0,1-4-4V576A4,4,0,0,1,3850,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3859 841)">rgba(212,183,154,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3859 819)">#D4B79<tspan class="cls-30" x="46.98" y="0">A</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3859 799)"><tspan class="cls-25">T</tspan><tspan x="8.59" y="0">an</tspan></text>
+    </g>
+    <polygon id="Transparent-45" data-name="Transparent" class="cls-98" points="4046 572 4046 772 3846 772 3846 572 4046 572"/>
+    <rect id="Color-45" data-name="Color" class="cls-99" x="3846" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-46" data-name="Background">
+      <path id="path-272" class="cls-4" d="M4081,572h192a4,4,0,0,1,4,4V851a4,4,0,0,1-4,4H4081a4,4,0,0,1-4-4V576A4,4,0,0,1,4081,572Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(4090 841)">rgba(191,158,<tspan class="cls-25" x="87.18" y="0">1</tspan><tspan x="93.93" y="0">15,1);</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(4090 819)">#BF9E73</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(4090 799)">Camel</text>
+    </g>
+    <polygon id="Transparent-46" data-name="Transparent" class="cls-100" points="4277 572 4277 772 4077 772 4077 572 4277 572"/>
+    <rect id="Color-46" data-name="Color" class="cls-101" x="4077" y="572" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-47" data-name="Background">
+      <path id="path-278" class="cls-4" d="M4081,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H4081a4,4,0,0,1-4-4V263A4,4,0,0,1,4081,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(4090 528)">rgba(212,198,184,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(4090 506)">#D4C6B8</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(4090 486)">Pale silver</text>
+    </g>
+    <polygon id="Transparent-47" data-name="Transparent" class="cls-102" points="4277 259 4277 459 4077 459 4077 259 4277 259"/>
+    <rect id="Color-47" data-name="Color" class="cls-103" x="4077" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-48" data-name="Background">
+      <path id="path-248-2" data-name="path-248" class="cls-4" d="M3851,259h192a4,4,0,0,1,4,4V538a4,4,0,0,1-4,4H3851a4,4,0,0,1-4-4V263A4,4,0,0,1,3851,259Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3860 528)">rgba(214,200,186,1);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3860 506)">#D6C8B<tspan class="cls-30" x="49.14" y="0">A</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3860 486)">Pastel gray</text>
+    </g>
+    <polygon id="Transparent-48" data-name="Transparent" class="cls-104" points="4047 259 4047 459 3847 459 3847 259 4047 259"/>
+    <rect id="Color-48" data-name="Color" class="cls-105" x="3847" y="259" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-49" data-name="Background">
+      <path id="path-296" class="cls-4" d="M2917,1168h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2917a4,4,0,0,1-4-4V1172A4,4,0,0,1,2917,1168Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2926 1437)">rgba(255,255,255,0.70);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2926 1415)">#FFFFF<tspan class="cls-7" x="46.93" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2926 1395)">White</text>
+    </g>
+    <polygon id="Transparent-49" data-name="Transparent" class="cls-106" points="3113 1168 3113 1368 2913 1368 2913 1168 3113 1168"/>
+    <rect id="Color-49" data-name="Color" class="cls-107" x="2913" y="1168" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-50" data-name="Background">
+      <path id="path-302" class="cls-4" d="M2687,1168h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2687a4,4,0,0,1-4-4V1172A4,4,0,0,1,2687,1168Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2696 1437)">rgba(255,255,255,0.50);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2696 1415)">#FFFFF<tspan class="cls-7" x="46.93" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2696 1395)">White</text>
+    </g>
+    <polygon id="Transparent-50" data-name="Transparent" class="cls-108" points="2883 1168 2883 1368 2683 1368 2683 1168 2883 1168"/>
+    <rect id="Color-50" data-name="Color" class="cls-109" x="2683" y="1168" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-51" data-name="Background">
+      <path id="path-308" class="cls-4" d="M2457,1168h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2457a4,4,0,0,1-4-4V1172A4,4,0,0,1,2457,1168Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2466 1437)">rgba(255,255,255,0.25);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2466 1415)">#FFFFF<tspan class="cls-7" x="46.93" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2466 1395)">White</text>
+    </g>
+    <polygon id="Transparent-51" data-name="Transparent" class="cls-110" points="2653 1168 2653 1368 2453 1368 2453 1168 2653 1168"/>
+    <rect id="Color-51" data-name="Color" class="cls-111" x="2453" y="1168" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-52" data-name="Background">
+      <path id="path-314" class="cls-4" d="M3147,1168h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3147a4,4,0,0,1-4-4V1172A4,4,0,0,1,3147,1168Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3156 1437)">rgba(244,242,242,0.25);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3156 1415)">#F4F2F2</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3156 1395)">Anti-flash white</text>
+    </g>
+    <polygon id="Transparent-52" data-name="Transparent" class="cls-112" points="3343 1168 3343 1368 3143 1368 3143 1168 3343 1168"/>
+    <rect id="Color-52" data-name="Color" class="cls-113" x="3143" y="1168" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-53" data-name="Background">
+      <path id="path-326" class="cls-4" d="M2457,1481h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2457a4,4,0,0,1-4-4V1485A4,4,0,0,1,2457,1481Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2466 1750)">rgba(216,216,216,0.30);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2466 1728)">#D8D8D8</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2466 1708)"><tspan class="cls-7">T</tspan><tspan x="9.48" y="0">imberwolf</tspan></text>
+    </g>
+    <polygon id="Transparent-53" data-name="Transparent" class="cls-114" points="2653 1481 2653 1681 2453 1681 2453 1481 2653 1481"/>
+    <rect id="Color-53" data-name="Color" class="cls-115" x="2453" y="1481" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-54" data-name="Background">
+      <path id="path-338" class="cls-4" d="M3377,1168h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3377a4,4,0,0,1-4-4V1172A4,4,0,0,1,3377,1168Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3386 1437)">rgba(216,216,216,0.10);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3386 1415)">#D8D8D8</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3386 1395)"><tspan class="cls-7">T</tspan><tspan x="9.48" y="0">imberwolf</tspan></text>
+    </g>
+    <polygon id="Transparent-54" data-name="Transparent" class="cls-116" points="3573 1168 3573 1368 3373 1368 3373 1168 3573 1168"/>
+    <rect id="Color-54" data-name="Color" class="cls-117" x="3373" y="1168" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-55" data-name="Background">
+      <path id="path-350" class="cls-4" d="M3607,1168h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3607a4,4,0,0,1-4-4V1172A4,4,0,0,1,3607,1168Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3616 1437)">rgba(216,216,216,0.20);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3616 1415)">#D8D8D8</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3616 1395)"><tspan class="cls-7">T</tspan><tspan x="9.48" y="0">imberwolf</tspan></text>
+    </g>
+    <polygon id="Transparent-55" data-name="Transparent" class="cls-118" points="3803 1168 3803 1368 3603 1368 3603 1168 3803 1168"/>
+    <rect id="Color-55" data-name="Color" class="cls-119" x="3603" y="1168" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-56" data-name="Background">
+      <path id="path-356" class="cls-4" d="M2687,1481h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2687a4,4,0,0,1-4-4V1485A4,4,0,0,1,2687,1481Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2696 1750)">rgba(177,181,189,0.25);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2696 1728)">#B1B5BD</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2696 1708)">Ash grey</text>
+    </g>
+    <polygon id="Transparent-56" data-name="Transparent" class="cls-120" points="2883 1481 2883 1681 2683 1681 2683 1481 2883 1481"/>
+    <rect id="Color-56" data-name="Color" class="cls-121" x="2683" y="1481" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-57" data-name="Background">
+      <path id="path-362" class="cls-4" d="M2917,1481h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2917a4,4,0,0,1-4-4V1485A4,4,0,0,1,2917,1481Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2926 1750)">rgba(0,0,0,0.15);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2926 1728)">#000000</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2926 1708)">Black</text>
+    </g>
+    <polygon id="Transparent-57" data-name="Transparent" class="cls-122" points="3113 1481 3113 1681 2913 1681 2913 1481 3113 1481"/>
+    <rect id="Color-57" data-name="Color" class="cls-123" x="2913" y="1481" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-58" data-name="Background">
+      <path id="path-368" class="cls-4" d="M3147,1481h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3147a4,4,0,0,1-4-4V1485A4,4,0,0,1,3147,1481Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3156 1750)">rgba(0,0,0,0.25);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3156 1728)">#000000</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3156 1708)">Black</text>
+    </g>
+    <polygon id="Transparent-58" data-name="Transparent" class="cls-124" points="3343 1481 3343 1681 3143 1681 3143 1481 3343 1481"/>
+    <rect id="Color-58" data-name="Color" class="cls-125" x="3143" y="1481" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-59" data-name="Background">
+      <path id="path-374" class="cls-4" d="M3147,2107h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3147a4,4,0,0,1-4-4V2111A4,4,0,0,1,3147,2107Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3156 2376)">rgba(154,190,255,0.50);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3156 2354)">#9ABEF<tspan class="cls-7" x="48.41" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3156 2334)">Baby blue eyes</text>
+    </g>
+    <polygon id="Transparent-59" data-name="Transparent" class="cls-126" points="3343 2107 3343 2307 3143 2307 3143 2107 3343 2107"/>
+    <rect id="Color-59" data-name="Color" class="cls-127" x="3143" y="2107" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-60" data-name="Background">
+      <path id="path-380" class="cls-4" d="M3377,2107h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3377a4,4,0,0,1-4-4V2111A4,4,0,0,1,3377,2107Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3386 2376)">rgba(154,190,255,0.75);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3386 2354)">#9ABEF<tspan class="cls-7" x="48.41" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3386 2334)">Baby blue eyes</text>
+    </g>
+    <polygon id="Transparent-60" data-name="Transparent" class="cls-128" points="3573 2107 3573 2307 3373 2307 3373 2107 3573 2107"/>
+    <rect id="Color-60" data-name="Color" class="cls-129" x="3373" y="2107" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-61" data-name="Background">
+      <path id="path-386" class="cls-4" d="M2917,1794h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2917a4,4,0,0,1-4-4V1798A4,4,0,0,1,2917,1794Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2926 2063)">rgba(249,222,129,0.50);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2926 2041)">#F9DE81</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2926 2021)">Jasmine</text>
+    </g>
+    <polygon id="Transparent-61" data-name="Transparent" class="cls-130" points="3113 1794 3113 1994 2913 1994 2913 1794 3113 1794"/>
+    <rect id="Color-61" data-name="Color" class="cls-131" x="2913" y="1794" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-62" data-name="Background">
+      <path id="path-392" class="cls-4" d="M3147,1794h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3147a4,4,0,0,1-4-4V1798A4,4,0,0,1,3147,1794Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3156 2063)">rgba(249,222,129,0.75);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3156 2041)">#F9DE81</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3156 2021)">Jasmine</text>
+    </g>
+    <polygon id="Transparent-62" data-name="Transparent" class="cls-132" points="3343 1794 3343 1994 3143 1994 3143 1794 3343 1794"/>
+    <rect id="Color-62" data-name="Color" class="cls-133" x="3143" y="1794" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-63" data-name="Background">
+      <path id="path-398" class="cls-4" d="M3377,1794h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3377a4,4,0,0,1-4-4V1798A4,4,0,0,1,3377,1794Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3386 2063)">rgba(152,220,154,0.50);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3386 2041)">#98DC9<tspan class="cls-30" x="47.7" y="0">A</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3386 2021)">Granny Smith<tspan class="cls-30" x="104.91" y="0"> </tspan><tspan x="108.76" y="0">Apple</tspan></text>
+    </g>
+    <polygon id="Transparent-63" data-name="Transparent" class="cls-134" points="3573 1794 3573 1994 3373 1994 3373 1794 3573 1794"/>
+    <rect id="Color-63" data-name="Color" class="cls-135" x="3373" y="1794" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-64" data-name="Background">
+      <path id="path-404" class="cls-4" d="M3607,1794h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3607a4,4,0,0,1-4-4V1798A4,4,0,0,1,3607,1794Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3616 2063)">rgba(152,220,154,0.75);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3616 2041)">#98DC9<tspan class="cls-30" x="47.7" y="0">A</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3616 2021)">Granny Smith<tspan class="cls-30" x="104.91" y="0"> </tspan><tspan x="108.76" y="0">Apple</tspan></text>
+    </g>
+    <polygon id="Transparent-64" data-name="Transparent" class="cls-136" points="3803 1794 3803 1994 3603 1994 3603 1794 3803 1794"/>
+    <rect id="Color-64" data-name="Color" class="cls-137" x="3603" y="1794" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-65" data-name="Background">
+      <path id="path-410" class="cls-4" d="M3377,1481h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3377a4,4,0,0,1-4-4V1485A4,4,0,0,1,3377,1481Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3386 1750)">rgba(255,131,125,0.50);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3386 1728)">#FF837D</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3386 1708)">Coral pink</text>
+    </g>
+    <polygon id="Transparent-65" data-name="Transparent" class="cls-138" points="3573 1481 3573 1681 3373 1681 3373 1481 3573 1481"/>
+    <rect id="Color-65" data-name="Color" class="cls-139" x="3373" y="1481" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-66" data-name="Background">
+      <path id="path-416" class="cls-4" d="M3607,1481h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3607a4,4,0,0,1-4-4V1485A4,4,0,0,1,3607,1481Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3616 1750)">rgba(255,131,125,0.75);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3616 1728)">#FF837D</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3616 1708)">Coral pink</text>
+    </g>
+    <polygon id="Transparent-66" data-name="Transparent" class="cls-140" points="3803 1481 3803 1681 3603 1681 3603 1481 3803 1481"/>
+    <rect id="Color-66" data-name="Color" class="cls-141" x="3603" y="1481" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-67" data-name="Background">
+      <path id="path-422" class="cls-4" d="M2457,1794h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2457a4,4,0,0,1-4-4V1798A4,4,0,0,1,2457,1794Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2466 2063)">rgba(249,194,140,0.50);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2466 2041)">#F9C28C</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2466 2021)">Peach-orange</text>
+    </g>
+    <polygon id="Transparent-67" data-name="Transparent" class="cls-142" points="2653 1794 2653 1994 2453 1994 2453 1794 2653 1794"/>
+    <rect id="Color-67" data-name="Color" class="cls-143" x="2453" y="1794" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-68" data-name="Background">
+      <path id="path-428" class="cls-4" d="M2687,1794h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2687a4,4,0,0,1-4-4V1798A4,4,0,0,1,2687,1794Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2696 2063)">rgba(249,194,140,0.75);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2696 2041)">#F9C28C</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2696 2021)">Peach-orange</text>
+    </g>
+    <polygon id="Transparent-68" data-name="Transparent" class="cls-144" points="2883 1794 2883 1994 2683 1994 2683 1794 2883 1794"/>
+    <rect id="Color-68" data-name="Color" class="cls-145" x="2683" y="1794" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-69" data-name="Background">
+      <path id="path-434" class="cls-4" d="M2457,2107h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2457a4,4,0,0,1-4-4V2111A4,4,0,0,1,2457,2107Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2466 2376)">rgba(153,205,205,0.50);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2466 2354)">#99CDCD</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2466 2334)">Pale robin egg blue</text>
+    </g>
+    <polygon id="Transparent-69" data-name="Transparent" class="cls-146" points="2653 2107 2653 2307 2453 2307 2453 2107 2653 2107"/>
+    <rect id="Color-69" data-name="Color" class="cls-147" x="2453" y="2107" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-70" data-name="Background">
+      <path id="path-440" class="cls-4" d="M2917,2107h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2917a4,4,0,0,1-4-4V2111A4,4,0,0,1,2917,2107Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2926 2376)">rgba(<tspan class="cls-25" x="32.68" y="0">1</tspan><tspan x="39.43" y="0">13,152,152,0.50);</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2926 2354)">#719898</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2926 2334)">Light slate gray</text>
+    </g>
+    <polygon id="Transparent-70" data-name="Transparent" class="cls-148" points="3113 2107 3113 2307 2913 2307 2913 2107 3113 2107"/>
+    <rect id="Color-70" data-name="Color" class="cls-149" x="2913" y="2107" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-71" data-name="Background">
+      <path id="path-446" class="cls-4" d="M2687,2107h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2687a4,4,0,0,1-4-4V2111A4,4,0,0,1,2687,2107Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2696 2376)">rgba(153,205,205,0.75);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2696 2354)">#99CDCD</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2696 2334)">Pale robin egg blue</text>
+    </g>
+    <polygon id="Transparent-71" data-name="Transparent" class="cls-150" points="2883 2107 2883 2307 2683 2307 2683 2107 2883 2107"/>
+    <rect id="Color-71" data-name="Color" class="cls-151" x="2683" y="2107" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-72" data-name="Background">
+      <path id="path-452" class="cls-4" d="M2457,2420h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2457a4,4,0,0,1-4-4V2424A4,4,0,0,1,2457,2420Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2466 2689)">rgba(189,154,255,0.50);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2466 2667)">#BD9AF<tspan class="cls-7" x="49.13" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2466 2647)">Bright lavender</text>
+    </g>
+    <polygon id="Transparent-72" data-name="Transparent" class="cls-152" points="2653 2420 2653 2620 2453 2620 2453 2420 2653 2420"/>
+    <rect id="Color-72" data-name="Color" class="cls-153" x="2453" y="2420" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-73" data-name="Background">
+      <path id="path-458" class="cls-4" d="M2687,2420h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H2687a4,4,0,0,1-4-4V2424A4,4,0,0,1,2687,2420Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(2696 2689)">rgba(189,154,255,0.75);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(2696 2667)">#BD9AF<tspan class="cls-7" x="49.13" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(2696 2647)">Bright lavender</text>
+    </g>
+    <polygon id="Transparent-73" data-name="Transparent" class="cls-154" points="2883 2420 2883 2620 2683 2620 2683 2420 2883 2420"/>
+    <rect id="Color-73" data-name="Color" class="cls-155" x="2683" y="2420" width="200" height="200"/>
+  </g>
+  <g>
+    <g id="Background-74" data-name="Background">
+      <path id="path-464" class="cls-4" d="M3607,2107h192a4,4,0,0,1,4,4v275a4,4,0,0,1-4,4H3607a4,4,0,0,1-4-4V2111A4,4,0,0,1,3607,2107Z"/>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(3616 2376)">rgba(171,171,255,0.75);</text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-6" transform="translate(3616 2354)">#ABABF<tspan class="cls-7" x="49.85" y="0">F</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-8" transform="translate(3616 2334)">Baby blue eyes</text>
+    </g>
+    <polygon id="Transparent-74" data-name="Transparent" class="cls-156" points="3803 2107 3803 2307 3603 2307 3603 2107 3803 2107"/>
+    <rect id="Color-74" data-name="Color" class="cls-157" x="3603" y="2107" width="200" height="200"/>
+  </g>
+  <text class="cls-158" transform="translate(186 164)">Greys</text>
+  <text class="cls-159" transform="translate(1289 164)">Basic Colors / Shades</text>
+  <text class="cls-158" transform="translate(2453 164)">Shades of Red</text>
+  <text class="cls-158" transform="translate(3617 164)">Lighter Skintones</text>
+  <text class="cls-160" transform="translate(2450 1075)">T<tspan class="cls-161" x="35.78" y="0">ransparencies</tspan></text>
+</svg>

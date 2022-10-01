@@ -1,0 +1,12 @@
+folder-adobe
+folder-contacts
+folder-desktop
+folder-dropbox
+folder-links
+folder-mega
+folder-onedrive
+folder-podcasts
+folder-projects
+folder-search
+folder-settings
+folder-videos

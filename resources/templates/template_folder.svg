@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="template_folder.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview18"
+     showgrid="true"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="80.949149"
+     inkscape:cy="96.711867"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid827"
+       spacingx="4"
+       spacingy="4" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  </defs>
+  <rect
+     x="20"
+     y="20"
+     width="152"
+     height="152"
+     rx="10"
+     style="fill:#728dbe;fill-rule:evenodd"
+     id="rect826" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 20,42.997 c 0,-5.5209 4.4776,-9.9965 9.9985,-9.9965 h 33.568 c 8.4587,0 11.574,13.256 15.366,13.256 h 83.064 c 5.5243,0 10.003,4.4753 10.003,9.9983 v 105.75 c 0,5.5219 -4.477,9.9983 -10.003,9.9983 h -131.99 c -5.5242,0 -10.003,-4.4674 -10.003,-9.9965 z"
+     style="fill:#9abeff;fill-rule:evenodd"
+     id="path828" />
+  <rect
+     style="opacity:0.63;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;paint-order:stroke fill markers;stroke-opacity:1"
+     id="rect819"
+     width="64"
+     height="64"
+     x="64"
+     y="76"
+     ry="32" />
+</svg>

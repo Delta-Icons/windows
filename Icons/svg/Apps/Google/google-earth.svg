@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 192 192"
+   fill="none"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="google-earth.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="90.789431"
+     inkscape:cy="172.22735"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <path
+     d="M 22.722656 83.273438 L 11.792969 108.29688 L 18.365234 135.30273 L 18.367188 135.30664 C 32.723664 163.60562 62.095952 183 96 183 C 139.12982 183 174.92268 151.6143 181.80078 110.4375 L 149.2832 139.36328 L 89.167969 123.83008 L 22.722656 83.273438 z "
+     id="path2"
+     style="fill:#54688c" />
+  <mask
+     id="mask0"
+     mask-type="alpha"
+     maskUnits="userSpaceOnUse"
+     x="9"
+     y="9"
+     width="174"
+     height="174">
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="M96 183C144.049 183 183 144.049 183 96C183 47.9512 144.049 9 96 9C47.9512 9 9 47.9512 9 96C9 144.049 47.9512 183 96 183Z"
+       fill="white"
+       id="path4" />
+  </mask>
+  <path
+     style="clip-rule:evenodd;fill:#728dbe;fill-rule:evenodd"
+     d="M 85.017578 53.695312 L 25.830078 54.916016 L 11.720703 77.232422 L 9.9824219 84.201172 L 9.8164062 84.083984 C 9.2826149 87.980431 9 91.956938 9 96 C 9 110.14481 12.377672 123.50032 18.367188 135.30664 C 16.812055 125.25314 15.968562 104.15039 36.388672 104.15039 C 77.032472 104.15039 70.456694 163.96094 122.3418 163.96094 C 158.69145 163.96094 174.32181 134.62231 180.43164 117.04297 C 180.97049 114.87394 181.41953 112.66901 181.79297 110.43945 L 144.96875 118.93945 L 85.017578 53.695312 z "
+     id="path7" />
+  <path
+     style="clip-rule:evenodd;fill:#9abeff;fill-rule:evenodd"
+     d="M 90.03125 17.980469 L 53.212891 22.294922 L 35.673828 33.345703 L 35.664062 33.337891 C 22.099221 46.404149 12.759123 63.827375 9.9160156 83.361328 C 9.9453264 83.738968 9.9824219 84.201172 9.9824219 84.201172 C 9.9824219 84.201172 17.254322 57.294922 44.044922 57.294922 C 90.015222 57.294922 102.23158 133.58984 144.01758 133.58984 C 168.16858 133.58984 177.88722 121.03613 181.80078 110.4375 C 182.58526 105.74107 183 100.91918 183 96 C 183 95.244642 182.98984 94.49098 182.9707 93.740234 L 133.46289 58.248047 L 90.03125 17.980469 z "
+     id="path9" />
+  <path
+     style="clip-rule:evenodd;fill:#e0ebff;fill-rule:evenodd"
+     d="M 90.6875 9.1660156 C 69.365238 10.453329 50.124853 19.42834 35.673828 33.345703 C 43.069329 29.063171 52.610517 25.033203 62.453125 25.033203 C 120.37783 25.033203 128.72408 100.96094 161.33008 100.96094 C 171.68561 100.96094 178.49172 97.905019 182.9707 93.740234 C 182.78226 86.347587 181.67005 79.184687 179.74805 72.361328 L 148.57031 26.703125 C 146.94434 25.467709 145.28301 24.276997 143.57031 23.15625 L 99.203125 9.4746094 L 90.691406 9.1660156 C 90.690108 9.1660939 90.688798 9.1659373 90.6875 9.1660156 z "
+     id="path11" />
+  <path
+     style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+     d="M 96 9 C 94.215374 9 92.445495 9.0600771 90.6875 9.1660156 C 131.43369 13.123036 152.73222 73.289063 173.11133 73.289062 C 175.65643 73.289062 177.84842 72.948768 179.74805 72.361328 C 169.44873 35.800436 135.85497 9 96 9 z "
+     id="path13" />
+</svg>

@@ -1,0 +1,9 @@
+<svg width="192" height="192" fill="none" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="M97.503 182C143.944 182 182 143.944 182 97.4971C182 50.0558 143.944 12 97.503 12C50.0558 12 12 50.0558 12 97.4971C12 143.944 50.0558 182 97.503 182Z" clip-rule="evenodd" fill="#56595B" fill-rule="evenodd"/>
+ <mask x="12" y="12" width="170" height="170" mask-type="alpha" maskUnits="userSpaceOnUse">
+  <path d="M97.503 182C143.944 182 182 143.944 182 97.4971C182 50.0558 143.944 12 97.503 12C50.0558 12 12 50.0558 12 97.4971C12 143.944 50.0558 182 97.503 182Z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd"/>
+ </mask>
+ <path d="m96.492 130c19.286 0 34.508-15.222 34.508-34 0-18.778-15.222-34-34.508-34-18.27 0-33.492 15.222-33.492 34 0 18.778 15.222 34 33.492 34z" style="clip-rule:evenodd;fill-rule:evenodd;fill:#ff837d"/>
+ <path d="m31.787 42.633c-12.365 14.818-19.787 33.924-19.787 54.865 0 19.67 6.8436 37.818 18.316 52.225l85.684-54.723-84.213-52.367z" style="clip-rule:evenodd;fill-rule:evenodd;fill:#000;opacity:.25"/>
+ <path d="m116 95.133-29 18.443v-36.576z" style="clip-rule:evenodd;fill-rule:evenodd;fill:#fff"/>
+</svg>

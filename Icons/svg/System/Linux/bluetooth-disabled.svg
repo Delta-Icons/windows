@@ -1,0 +1,12 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" fill-rule="evenodd">
+  <circle cx="96" cy="96" r="88" fill="#9ABEFF"/>
+  <g transform="translate(76 65)" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+   <polyline points="0.103 8.76 37.076 45.733 21.725 61.083 21.725 0.777"/>
+   <polyline transform="matrix(1 0 0 -1 0 61.86)" points="0.103 8.76 37.076 45.733 21.725 61.083 21.725 0.777"/>
+  </g>
+ </g>
+ <circle cx="152" cy="152" r="31.606" style="fill:#ba6561"/>
+ <path d="m164 139-23 28" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:7;stroke:#fff"/>
+ <path d="m141 139 23 28" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:7;stroke:#fff"/>
+</svg>

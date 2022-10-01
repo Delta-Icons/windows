@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg10"
+   sodipodi:docname="adobe-illustrator.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="-5.2881356"
+     inkscape:cy="89.084746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <rect
+     class="cls-1"
+     x="19.5"
+     y="19.5"
+     width="153"
+     height="153"
+     rx="10"
+     ry="10"
+     style="fill:#ba6561"
+     id="rect2" />
+  <path
+     d="m118.13 70.832c-3.0754 0-5.6641 2.5097-5.6641 5.666 0 3.0754 2.5887 5.6641 5.6641 5.6641s5.666-2.5887 5.666-5.6641c0-3.1563-2.5906-5.666-5.666-5.666zm-38.578 0.56641-17.482 48.559h11.412l2.9941-9.1445h18.129l2.9941 9.1445h11.412l-17.482-48.559h-11.977zm5.9883 11.25 6.2324 19.262h-12.465l6.2324-19.262zm27.41 4.9375v32.371h10.279v-32.371h-10.279z"
+     style="fill:#f8c18c;stroke-width:1.6186"
+     id="path6" />
+  <style
+     type="text/css"
+     id="style8">.st0{fill:#FFFFFF;}</style>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 192 192"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="apple-music.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="101.15949"
+     inkscape:cy="106.34295"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M96 183C144.049 183 183 144.049 183 96C183 47.9512 144.049 9 96 9C47.9512 9 9 47.9512 9 96C9 144.049 47.9512 183 96 183Z"
+     fill="white"
+     id="path2" />
+  <path
+     d="m 124,65 -42.4062,9.2002 v 33.1178 c -1.419,-0.591 -2.976,-0.917 -4.6094,-0.917 -6.6188,0 -11.9844,5.355 -11.9844,11.96 0,6.606 5.3656,11.96 11.9844,11.96 6.6188,0 11.9844,-5.354 11.9844,-11.96 V 79.9603 l 27.6562,-6.0001 v 25.9972 c -1.419,-0.5905 -2.976,-0.9167 -4.609,-0.9167 -6.619,0 -11.985,5.3553 -11.985,11.9603 0,6.605 5.366,11.96 11.985,11.96 6.618,0 11.984,-5.355 11.984,-11.96 0,-15.333667 0,-30.667333 0,-46.001 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:#9abeff;fill-rule:evenodd"
+     sodipodi:nodetypes="cccsssscccssscc" />
+</svg>
