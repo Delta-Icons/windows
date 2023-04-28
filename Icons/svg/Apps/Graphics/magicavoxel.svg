@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="magicavoxel.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview18"
+     showgrid="true"
+     inkscape:zoom="4.1676432"
+     inkscape:cx="70.403187"
+     inkscape:cy="90.187631"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16">
+    <inkscape:grid
+       type="xygrid"
+       id="grid827"
+       spacingx="4"
+       spacingy="4" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  </defs>
+  <rect
+     style="opacity:1;vector-effect:none;fill:#4a4a4a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect950"
+     width="128"
+     height="24"
+     x="32"
+     y="92" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect901"
+     width="12"
+     height="24"
+     x="68"
+     y="160" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     d="M 32 124 L 32 136 L 44 136 L 44 124 L 32 124 z M 32 136 L 20 136 L 20 160 L 32 160 L 32 136 z M 32 160 L 32 172 L 80 172 L 80 160 L 32 160 z "
+     id="rect935" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect913"
+     width="104"
+     height="56"
+     x="44"
+     y="92" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect911"
+     width="80"
+     height="24"
+     x="56"
+     y="136" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#bd9aff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.95742708;paint-order:stroke fill markers"
+     id="rect909"
+     width="80"
+     height="44"
+     x="56"
+     y="104" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     d="m 32,8 v 96 h 8 4 12 V 92 h 80 v 12 h 12 4 8 V 8 H 148 V 20 H 136 V 32 H 124 V 44 H 68 V 32 H 56 V 20 H 44 V 8 Z"
+     id="rect818"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666669;paint-order:stroke fill markers"
+     id="rect847"
+     width="24"
+     height="24"
+     x="44"
+     y="56" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666669;paint-order:stroke fill markers"
+     id="rect847-7"
+     width="24"
+     height="24"
+     x="124"
+     y="56" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect903"
+     width="12"
+     height="24"
+     x="112"
+     y="160" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.58198881;paint-order:stroke fill markers"
+     id="rect917"
+     width="80"
+     height="12"
+     x="56"
+     y="136" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect899"
+     width="56"
+     height="56"
+     x="68"
+     y="116" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect891"
+     width="56"
+     height="24"
+     x="68"
+     y="104" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect877"
+     width="12"
+     height="12"
+     x="68"
+     y="104" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect879"
+     width="12"
+     height="12"
+     x="112"
+     y="104" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#bd9aff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect907"
+     width="56"
+     height="12"
+     x="68"
+     y="92" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect893"
+     width="12"
+     height="12"
+     x="80"
+     y="92" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect895"
+     width="24"
+     height="12"
+     x="68"
+     y="116" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#83868c;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect921"
+     width="12"
+     height="12"
+     x="68"
+     y="148" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#83868c;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect923"
+     width="12"
+     height="12"
+     x="112"
+     y="148" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#83868c;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect925"
+     width="32"
+     height="12"
+     x="80"
+     y="136" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect942"
+     width="12"
+     height="12"
+     x="44"
+     y="160" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect944"
+     width="12"
+     height="12"
+     x="32"
+     y="172" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect946"
+     width="12"
+     height="12"
+     x="136"
+     y="160" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect948"
+     width="12"
+     height="12"
+     x="148"
+     y="172" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#4a4a4a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect952"
+     width="24"
+     height="12"
+     x="32"
+     y="32" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#4a4a4a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect954"
+     width="12"
+     height="20"
+     x="32"
+     y="20" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#4a4a4a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect956"
+     width="12"
+     height="24"
+     x="148"
+     y="20" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#4a4a4a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+     id="rect958"
+     width="20"
+     height="12"
+     x="136"
+     y="32" />
+</svg>

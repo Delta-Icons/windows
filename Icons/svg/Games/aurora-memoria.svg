@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,9 +38,9 @@
      inkscape:window-height="1017"
      id="namedview18"
      showgrid="true"
-     inkscape:zoom="4.1676432"
-     inkscape:cx="45.913934"
-     inkscape:cy="87.045226"
+     inkscape:zoom="4.996033"
+     inkscape:cx="34.095874"
+     inkscape:cy="86.443708"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -54,14 +54,38 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient836"
+       inkscape:collect="always">
+      <stop
+         id="stop832"
+         offset="0"
+         style="stop-color:#54688c;stop-opacity:1" />
+      <stop
+         id="stop834"
+         offset="1"
+         style="stop-color:#728dbe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient830"
+       inkscape:collect="always">
+      <stop
+         id="stop826"
+         offset="0"
+         style="stop-color:#54688c;stop-opacity:1" />
+      <stop
+         id="stop828"
+         offset="1"
+         style="stop-color:#728dbe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient889">
       <stop
-         style="stop-color:#8c72bd;stop-opacity:1"
+         style="stop-color:#54688c;stop-opacity:1"
          offset="0"
          id="stop885" />
       <stop
-         style="stop-color:#bd9aff;stop-opacity:1"
+         style="stop-color:#728dbe;stop-opacity:1"
          offset="1"
          id="stop887" />
     </linearGradient>
@@ -69,7 +93,7 @@
        id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient889"
+       xlink:href="#linearGradient836"
        id="linearGradient891"
        x1="84"
        y1="108"
@@ -78,7 +102,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient889"
+       xlink:href="#linearGradient830"
        id="linearGradient899"
        x1="140"
        y1="52"
@@ -103,13 +127,13 @@
      height="152"
      rx="10"
      id="rect6"
-     style="fill:#bd9aff;stroke:none;opacity:1" />
+     style="fill:#728dbe;stroke:none;opacity:1" />
   <path
      style="opacity:1;vector-effect:none;fill:url(#linearGradient907);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      d="M 60.074219 20 C 42.491407 28.289812 28.289812 42.491407 20 60.074219 L 20 131.92578 C 28.289812 149.50859 42.491407 163.71019 60.074219 172 L 131.92578 172 C 149.50859 163.71019 163.71019 149.50859 172 131.92578 L 172 60.074219 C 163.71019 42.491407 149.50859 28.289812 131.92578 20 L 60.074219 20 z "
      id="rect865" />
   <rect
-     style="opacity:1;vector-effect:none;fill:#bd9aff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     style="opacity:1;vector-effect:none;fill:#728dbe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="rect863"
      width="136"
      height="136"
@@ -125,7 +149,7 @@
      y="44"
      ry="52" />
   <rect
-     style="opacity:1;vector-effect:none;fill:#bd9aff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     style="opacity:1;vector-effect:none;fill:#728dbe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="rect861"
      width="72"
      height="72"
@@ -141,7 +165,7 @@
      y="76"
      ry="20" />
   <rect
-     style="opacity:1;vector-effect:none;fill:#bd9aff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     style="opacity:1;vector-effect:none;fill:#728dbe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="rect883"
      width="16"
      height="16"
